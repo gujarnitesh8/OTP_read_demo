@@ -1,0 +1,4 @@
+#Fri May 31 10:30:29 IST 2019
+base.0=/Volumes/DATA/jayesh/projects/smslistner/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
